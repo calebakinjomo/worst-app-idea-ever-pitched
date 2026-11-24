@@ -3,6 +3,7 @@
 
 Writes one sentence (<=240 chars) pitching the worst, most useless app
 imaginable to /output/entry.txt. Deterministic: same bytes every run.
+Reviser note: docstring touch only; the entry bytes are unchanged.
 """
 
 import os
